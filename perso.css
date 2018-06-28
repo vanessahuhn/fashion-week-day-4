@@ -1,0 +1,23 @@
+/*customized css*/
+body {
+  padding: 0 8vw;
+}
+
+.menu-icon {
+  position: absolute;
+  right: 2rem;
+  top: 1.5rem;
+}
+
+.main-title {
+  font-size: calc(2.2rem + (41.599999999999994 * (100vw - 400px)/ 624));
+}
+
+.main-text {
+  font-size: calc(1.0625rem + (3 * (100vw - 400px)/ 624))
+  margin-bottom: 2rem;
+}
+
+.button1 {
+  
+}
